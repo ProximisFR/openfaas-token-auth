@@ -30,7 +30,7 @@ package main
 import (
 	"time"
 
-	openfaasauthtoken "github.com/ProximisFR/openfaas-token-auth"
+	openfaasauthtoken "github.com/proximisfr/openfaas-token-auth"
 )
 
 func main() {
